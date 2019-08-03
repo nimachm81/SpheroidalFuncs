@@ -1,3 +1,8 @@
+out/
+literature/
+visualisation/__pycache__/
+visualisation/.ipynb_checkpoints/
+
 # Prerequisites
 *.d
 
